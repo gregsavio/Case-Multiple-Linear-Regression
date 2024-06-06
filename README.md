@@ -1,3 +1,5 @@
 # Case-Multiple-Linear-Regression
 
 In machine learning, regression is a method used for predictive modeling, where algorithms are used to predict continuous outcomes. Multiple linear regression, also called multiple regression, is a statistical technique that forecasts the result of a response variable by using several explanatory variables together. This method is an extension of linear regression, which uses only one explanatory variable.
+
+In the attached case, there is a continuous reactor with unstable operating conditions. It it provided operational conditions data such as temperature, pressure, reactant concentration, catalyst concentration, and product yield. This data can be analyzed using multiple linear regression methods because there are more than two independent variables, with product yield as the dependent variable. Consequently, by obtaining the regression equation, the product yield can be determined if the temperature, pressure, reactant concentration, and catalyst concentration are known.
